@@ -106,7 +106,7 @@ BST_Guessing_App
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/BST-Guessing-App.git
+git clone https://github.com/shivam-9s/BST-Guessing-App.git
 ```
 
 ---
